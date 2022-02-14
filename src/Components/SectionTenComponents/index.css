@@ -1,0 +1,66 @@
+.SectTenContainer{
+    height: 90vh;
+    width: 100%;
+    background-color: black;
+    
+}
+.helpLogo{
+    height: 50px;
+    width: 50px;
+    
+   
+}
+.badge{
+    height: 80px;
+    width: 80px;
+}
+
+.BadgeContainer{
+    height: 220px;
+    background-color: rgb(202, 240, 243);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.List > a{
+    list-style: none;
+    text-decoration: none;
+    color: #999;
+}
+
+
+.line{
+ height: 2px;   
+ color: white;    
+} 
+
+
+.AboutTag{
+    color: #999;
+}
+.ListRow{
+    height: 400px;
+    background-color: #293037;
+    display: flex;
+    flex-direction: row;
+    color: #999;
+    justify-content: space-around;
+    padding-top: 20px;
+
+}
+.para10{
+color: white;
+font-size: 15px;
+}
+.btn10{
+height: 40px;
+width: 50px;
+background-color:rgb(0, 183, 255) ;
+color: white;
+}
+.Holder{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+}

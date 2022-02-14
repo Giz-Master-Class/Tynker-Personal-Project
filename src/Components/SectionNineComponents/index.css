@@ -1,0 +1,93 @@
+.SectNineContainer{
+    height: 200vh;
+    width: 100%;
+    background-image: url('../image/map.png');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.TextAndButton{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.imgQuote{
+    width: 17px;
+    height: 17px;
+    }
+
+.imageQuote{
+    display: flex;
+    flex-direction: row;
+}
+
+.Smallpics{
+    border-radius: 50%;
+}
+.signUpbtn{
+    width: 180px;
+    padding: 13px;
+    border: 1px solid rgb(235, 138, 12);
+    background-color: rgb(235, 138, 12);
+    margin-right: 5px;
+    color: white;
+    border-radius: 3px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.Sectpara{
+    font-style: italic;
+    font-size: 20px;
+}
+.Sectpara2{
+    margin-right: 20px;
+    font-size: 15px;
+    color: black
+}
+.headerAndPara{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+    margin-right: 10px;
+
+}
+.ImgAndName{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Card1{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px, rgba(0,0,0,0.22) 0px 15px 12px;
+}
+
+.Card2{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px, rgba(0,0,0,0.22) 0px 15px 12px;
+}

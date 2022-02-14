@@ -1,0 +1,43 @@
+.Footer{
+    height: 70px;
+    width: 100%;
+    background-color: #353e5c;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ; 
+    align-items: center;
+   background-position: fixed;
+    
+    
+}
+.bottomRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: #293037;
+    color: #999;
+    
+}
+
+.footerPtag{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footerbtn{
+    
+        width: 200px;
+        padding: 13px;
+        border: 1px solid rgb(90, 175, 214);
+        background-color: rgb(90, 175, 214);
+        margin-right: 5px;
+        color: white;
+        border-radius: 3px;
+        font-family: 'Helvetica';
+        font-weight: bold;
+        font-style: normal;
+      
+}

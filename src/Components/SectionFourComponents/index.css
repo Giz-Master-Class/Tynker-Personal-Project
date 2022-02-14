@@ -1,0 +1,42 @@
+.sectionFourContainer{
+    height: 170vh;
+    width: 100%;
+    background-color: rgb(230, 253, 255);      
+    }
+
+.bgtop{
+    height: 100px;
+    width: 100%;
+}
+.bgbottom{
+    height: 200px;
+    width: 100%;
+}
+
+.SubSect1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.SubSect2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+.sect4header{
+    font-size:37px ;
+}
+
+.learnMorebtn{
+    height: 50px;
+    width: 120px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    border:none;
+}
